@@ -682,8 +682,12 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-teylhOp7is .navbar-dropdown {
-  position: relative !important;
+.cid-teylhOp7is {
+  z-index: 1000;
+  width: 100%;
+}
+.cid-teylhOp7is nav.navbar {
+  position: fixed;
 }
 .cid-teylhOp7is .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -780,8 +784,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.8);
 }
 .cid-teylhOp7is .navbar.opened {
   transition: all 0.3s;
@@ -994,6 +997,7 @@ a {
 }
 .cid-teylhOp7is .navbar-dropdown {
   padding: 0 1rem;
+  position: fixed;
 }
 .cid-teylhOp7is a.nav-link {
   display: flex;
@@ -1314,8 +1318,12 @@ a {
 .cid-teybaWQgIt .hidden {
   display: none;
 }
-.cid-teylhOp7is .navbar-dropdown {
-  position: relative !important;
+.cid-teylhOp7is {
+  z-index: 1000;
+  width: 100%;
+}
+.cid-teylhOp7is nav.navbar {
+  position: fixed;
 }
 .cid-teylhOp7is .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -1412,8 +1420,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.8);
 }
 .cid-teylhOp7is .navbar.opened {
   transition: all 0.3s;
@@ -1626,6 +1633,7 @@ a {
 }
 .cid-teylhOp7is .navbar-dropdown {
   padding: 0 1rem;
+  position: fixed;
 }
 .cid-teylhOp7is a.nav-link {
   display: flex;
@@ -1759,8 +1767,12 @@ a {
 .cid-teyb8AedHl .hidden {
   display: none;
 }
-.cid-teylhOp7is .navbar-dropdown {
-  position: relative !important;
+.cid-teylhOp7is {
+  z-index: 1000;
+  width: 100%;
+}
+.cid-teylhOp7is nav.navbar {
+  position: fixed;
 }
 .cid-teylhOp7is .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -1857,8 +1869,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.8);
 }
 .cid-teylhOp7is .navbar.opened {
   transition: all 0.3s;
@@ -2071,6 +2082,7 @@ a {
 }
 .cid-teylhOp7is .navbar-dropdown {
   padding: 0 1rem;
+  position: fixed;
 }
 .cid-teylhOp7is a.nav-link {
   display: flex;
