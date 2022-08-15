@@ -582,9 +582,6 @@ a:hover {
   color: #ffffff;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
-}
 .form-control {
   font-family: 'Jost', sans-serif;
   font-size: 1.1rem;
@@ -1194,7 +1191,7 @@ a {
   width: 60px;
   height: 60px;
   bottom: 40px;
-  right: 10px;
+  right: 13px;
   background-color: #25d366;
   color: #ffffff;
   border-radius: 60px;
@@ -1311,7 +1308,7 @@ a {
   width: 60px;
   height: 60px;
   bottom: 40px;
-  right: 100px;
+  right: 13px;
   background-color: #25d366;
   color: #ffffff;
   border-radius: 60px;
@@ -1760,7 +1757,7 @@ a {
   width: 60px;
   height: 60px;
   bottom: 40px;
-  right: 100px;
+  right: 13px;
   background-color: #25d366;
   color: #ffffff;
   border-radius: 60px;
